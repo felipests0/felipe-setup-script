@@ -23,3 +23,11 @@ Ensure you are running **Ubuntu 24.04** and have `sudo` privileges.
 Before running the script, grant execution permissions:
 ```bash
 chmod +x setup.sh
+
+### 3. Execution
+### Run the script and follow the prompts:
+./setup.sh
+
+## 4. Post-Installation
+## After the script completes, restart your system or log out to apply the new group permissions for Docker, MicroK8s, and Wireshark.
+
