@@ -1,4 +1,4 @@
-# felipe-setup-script 🚀
+# felipe-setup-script 
 
 Automated post-installation and provisioning script for **Ubuntu 24.04**. 
 Designed to streamline the setup of a professional SRE/DevOps workstation and the development environment for [prodpanel.com](https://prodpanel.com).
